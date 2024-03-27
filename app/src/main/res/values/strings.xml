@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrudeRealtimeDAtabase</string>
+    <string name="enter_name">enter_name</string>
+    <string name="add_user">add_user</string>
+</resources>

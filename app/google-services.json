@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "397165765991",
+    "firebase_url": "https://cruderealtimedatabase-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "cruderealtimedatabase",
+    "storage_bucket": "cruderealtimedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397165765991:android:c24f47977804894d02fbc2",
+        "android_client_info": {
+          "package_name": "com.example.cruderealtimedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397165765991-sq9kd453iukgrua964itp1cc1psoehpi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cruderealtimedatabase",
+            "certificate_hash": "0b40864023f5fbd605030e544d1c39144620694b"
+          }
+        },
+        {
+          "client_id": "397165765991-q0agijg453jlfmbi3pa3fo4qlsbr7ime.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8Eb4F7S4H1oC1EOdjZivZCcX7nrRd3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397165765991-q0agijg453jlfmbi3pa3fo4qlsbr7ime.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
